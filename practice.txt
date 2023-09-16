@@ -1,3 +1,4 @@
 hello
 this is feature one
 this is bug bug bgu bug bgu bgubugbugbugbu
+this is the conflict
