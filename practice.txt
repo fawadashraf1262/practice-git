@@ -1,2 +1,3 @@
 hello
 this is feature one
+this is the conflict
